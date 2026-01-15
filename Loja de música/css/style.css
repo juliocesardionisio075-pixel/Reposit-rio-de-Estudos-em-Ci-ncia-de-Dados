@@ -1,0 +1,19 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    margin: 30px 0;
+    padding: 30px 20px;
+    text-align: center;
+}
+
+footer{
+    padding: 20px;
+}
+
+.produto-item{
+    color:black;
+    font-weight: bold;
+    
+}
